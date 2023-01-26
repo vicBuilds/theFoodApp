@@ -4,9 +4,6 @@
 A Meals app
 
 
-### General steps to follow when creating a project
-
-### Instructions
 ### Use the TheMeal API: https://www.themealdb.com/api.php
 
 
