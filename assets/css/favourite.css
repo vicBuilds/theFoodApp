@@ -1,0 +1,88 @@
+body{
+    text-align: center;
+    padding: 20px;
+    background-color: #e4d7d3;
+}
+
+
+#fav-container{
+    max-width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    
+}
+#fav-container img{
+    max-width: 95%;
+    max-height: 350px;
+}
+
+
+.foodcards{
+    width: 100%;
+    height: 500px;
+    overflow: scroll;
+    margin: 25px;
+    font-size: x-large;
+    font-family: math;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-align: center;
+    box-shadow: 0px 0px 30px 0px #f2a635;
+    padding: 20px;
+}
+h2{
+    font-family: auto;
+    font-size: 138%;
+    color: #cc1919;
+    font-weight: bolder;
+    opacity: 0.7;
+    box-shadow: 0px 0px 102px 0px #ff9800;
+}
+  
+  .foodcards img{
+    height: 300px;
+    width: 300px;
+    margin: 10px;
+  }  
+
+  h1{
+    color: #f46f45;
+    font-family: auto;
+    font-weight: bolder;
+    font-size:270%;
+    box-shadow: 0px 0px 40px -9px #a8392a;
+    opacity: 0.8;
+    padding: 20px;
+}
+.Delete-fav{
+    font-size: 62%;
+    background-color: transparent;
+    color: #998669;
+    border: none;
+}
+
+.Delete-fav:hover{
+    box-shadow: 0px 0px 40px 02px rgb(77, 73, 73);
+  }
+
+.instruction{
+    text-transform: initial;
+    font-family: math;
+}
+form{
+    display: flex;
+    justify-content: flex-start;
+    margin-bottom: 20px;
+}
+  
+#homepage{
+    background-color: transparent;
+    opacity: 0.7;
+    border: none;
+    color: #b42c05;
+}
+#homepage:hover{
+    box-shadow: 0px 0px 10px 2px rgb(197, 78, 4);
+  }
