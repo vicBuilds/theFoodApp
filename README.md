@@ -1,10 +1,7 @@
 # theFoodApp
 
-# The Meals App
-A Meals app
-
-
-### Use the TheMeal API: https://www.themealdb.com/api.php
+# The Food App
+A Food app
 
 
 
