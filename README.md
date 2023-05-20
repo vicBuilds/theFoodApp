@@ -67,7 +67,7 @@ The Food App is a web application that allows users to search for meals, view me
 ## Technologies Used
 
 - HTML5, CSS3, JavaScript
-- EJS (or any other chosen JavaScript framework/library)
+- EJS 
 - API for meal data retrieval (e.g., [TheMealDB API](https://www.themealdb.com/api.php))
 
 ## Credits
